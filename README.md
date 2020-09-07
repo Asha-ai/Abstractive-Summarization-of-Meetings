@@ -78,3 +78,9 @@ has similar code.
 ## License
 
 This project is licensed under the [Apache License 2.0](/LICENSE).
+
+## Data Analysis
+data_analysis_train.ipynb , data_analysis_dev.ipynb consists of 
+ 1. data visuvalization
+ 2. checking is there duplicates in summaries and record_transcripts
+ 3. Through word cloud plot and bar plot look at the frequently repeated words etc  
